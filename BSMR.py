@@ -20,7 +20,7 @@ with col1:
     st.image("img/logo_bsmr.png", width=200)
 
 with col3:
-    st.image("img/logo1.png", width=170)
+    st.image("img/Logo1.png", width=170)
 
 
 #Titulo principal
