@@ -1,0 +1,12 @@
+Categoría,Descripción,Nivel,Área,Cantidad
+Detención por Percance Cierre de vía,Fue un desvió de ruta por cierre de vía,BAJA,BSAR-BSCO-BSCR-BSR-BSMX,1.0
+Incidencia de Unidad ,La mayoría de las incidencias derivan con fallas mecánicas y algunas por unidades fuera de línea,ALTA,BSAR-BSCO-BSCR-BSR-BSMX,16.0
+Detención No Autorizada,Reportes por resguardo en sitios no autorizados ,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,7.0
+Incidencia Línea/Operador,No se presentaron reportes,BAJA,BSAR-BSCO-BSCR-BSR-BSMX,2.0
+Neumático Dañado,Reporte por ponchaduras,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,8.0
+Desvió de Ruta No Autorizad,No se presentaron reportes,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,8.0
+SeparacióndeConvoy,No se presentaron reportes ,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,7.0
+Reinicio de Ruta No Autorizad,No se presentaron reportes ,BAJA,BSAR-BSCO-BSCR-BSR-BSMX,2.0
+Incidencia de Robo de Caja,No se presentaron reportes,BAJA,BSAR-BSCO-BSCR-BSR-BSMX,0.0
+Incidencia de Robo de Custodia ,No se presentaron reportes,BAJA,BSAR-BSCO-BSCR-BSR-BSMX,0.0
+

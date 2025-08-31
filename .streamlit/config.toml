@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "blue"
+backgroundColor = "#475569ff"
+secondaryBackgroundColor = "lightgray"
+textColor = "wait"
+font = "sans serif"

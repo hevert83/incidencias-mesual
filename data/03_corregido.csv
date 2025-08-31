@@ -1,0 +1,61 @@
+Number,Categoría,Descripción,Nivel,Locación,Cantidad,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Área
+1.0,Detención por Percance Cierre de vía,Fue un desvió de ruta por cierre de vía,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",1.0,,,,,,,,,,,,,,,BSAR
+1.0,Detención por Percance Cierre de vía,Fue un desvió de ruta por cierre de vía,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",1.0,,,,,,,,,,,,,,,BSCO
+1.0,Detención por Percance Cierre de vía,Fue un desvió de ruta por cierre de vía,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",1.0,,,,,,,,,,,,,,,BSCR
+1.0,Detención por Percance Cierre de vía,Fue un desvió de ruta por cierre de vía,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",1.0,,,,,,,,,,,,,,,BSR
+1.0,Detención por Percance Cierre de vía,Fue un desvió de ruta por cierre de vía,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",1.0,,,,,,,,,,,,,,,BSMX
+2.0,Incidencia de Unidad ,La mayoría de las incidencias derivan con fallas mecánicas y algunas por unidades fuera de línea,ALTA,"BSAR,BSCO,BSCR,BSR,BSMX",16.0,,,,,,,,,,,,,,,BSAR
+2.0,Incidencia de Unidad ,La mayoría de las incidencias derivan con fallas mecánicas y algunas por unidades fuera de línea,ALTA,"BSAR,BSCO,BSCR,BSR,BSMX",16.0,,,,,,,,,,,,,,,BSCO
+2.0,Incidencia de Unidad ,La mayoría de las incidencias derivan con fallas mecánicas y algunas por unidades fuera de línea,ALTA,"BSAR,BSCO,BSCR,BSR,BSMX",16.0,,,,,,,,,,,,,,,BSCR
+2.0,Incidencia de Unidad ,La mayoría de las incidencias derivan con fallas mecánicas y algunas por unidades fuera de línea,ALTA,"BSAR,BSCO,BSCR,BSR,BSMX",16.0,,,,,,,,,,,,,,,BSR
+2.0,Incidencia de Unidad ,La mayoría de las incidencias derivan con fallas mecánicas y algunas por unidades fuera de línea,ALTA,"BSAR,BSCO,BSCR,BSR,BSMX",16.0,,,,,,,,,,,,,,,BSMX
+3.0,Detención No Autorizada,Reportes por resguardo en sitios no autorizados ,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSAR
+3.0,Detención No Autorizada,Reportes por resguardo en sitios no autorizados ,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSCO
+3.0,Detención No Autorizada,Reportes por resguardo en sitios no autorizados ,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSCR
+3.0,Detención No Autorizada,Reportes por resguardo en sitios no autorizados ,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSR
+3.0,Detención No Autorizada,Reportes por resguardo en sitios no autorizados ,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSMX
+4.0,Incidencia Línea/Operador ,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSAR
+4.0,Incidencia Línea/Operador ,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSCO
+4.0,Incidencia Línea/Operador ,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSCR
+4.0,Incidencia Línea/Operador ,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSR
+4.0,Incidencia Línea/Operador ,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSMX
+5.0,Neumático Dañado,Reporte por ponchaduras,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSAR
+5.0,Neumático Dañado,Reporte por ponchaduras,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSCO
+5.0,Neumático Dañado,Reporte por ponchaduras,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSCR
+5.0,Neumático Dañado,Reporte por ponchaduras,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSR
+5.0,Neumático Dañado,Reporte por ponchaduras,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSMX
+6.0,Desvió de Ruta No Autorizado,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSAR
+6.0,Desvió de Ruta No Autorizado,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSCO
+6.0,Desvió de Ruta No Autorizado,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSCR
+6.0,Desvió de Ruta No Autorizado,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSR
+6.0,Desvió de Ruta No Autorizado,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",8.0,,,,,,,,,,,,,,,BSMX
+7.0,Separación de Convoy,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSAR
+7.0,Separación de Convoy,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSCO
+7.0,Separación de Convoy,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSCR
+7.0,Separación de Convoy,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSR
+7.0,Separación de Convoy,,MEDIA,"BSAR,BSCO,BSCR,BSR,BSMX",7.0,,,,,,,,,,,,,,,BSMX
+8.0,Reinicio de Ruta No Autorizado,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSAR
+8.0,Reinicio de Ruta No Autorizado,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSCO
+8.0,Reinicio de Ruta No Autorizado,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSCR
+8.0,Reinicio de Ruta No Autorizado,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSR
+8.0,Reinicio de Ruta No Autorizado,,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",2.0,,,,,,,,,,,,,,,BSMX
+9.0,Incidencia de Robo de Caja,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSAR
+9.0,Incidencia de Robo de Caja,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSCO
+9.0,Incidencia de Robo de Caja,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSCR
+9.0,Incidencia de Robo de Caja,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSR
+9.0,Incidencia de Robo de Caja,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSMX
+10.0,Incidencia de Robo de Custodia ,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSAR
+10.0,Incidencia de Robo de Custodia ,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSCO
+10.0,Incidencia de Robo de Custodia ,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSCR
+10.0,Incidencia de Robo de Custodia ,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSR
+10.0,Incidencia de Robo de Custodia ,No se presentaron reportes,BAJA,"BSAR,BSCO,BSCR,BSR,BSMX",0.0,,,,,,,,,,,,,,,BSMX
+,,,,CONTEO TOTAL DE LAS INCIDENCIAS DEL FEBRERO,51.0,,,,,,,,,,,,,,,BSAR
+,,,,CONTEO TOTAL DE LAS INCIDENCIAS DEL FEBRERO,51.0,,,,,,,,,,,,,,,BSCO
+,,,,CONTEO TOTAL DE LAS INCIDENCIAS DEL FEBRERO,51.0,,,,,,,,,,,,,,,BSCR
+,,,,CONTEO TOTAL DE LAS INCIDENCIAS DEL FEBRERO,51.0,,,,,,,,,,,,,,,BSR
+,,,,CONTEO TOTAL DE LAS INCIDENCIAS DEL FEBRERO,51.0,,,,,,,,,,,,,,,BSMX
+,,,,,,,,,,,,,,,,,,,,BSAR
+,,,,,,,,,,,,,,,,,,,,BSCO
+,,,,,,,,,,,,,,,,,,,,BSCR
+,,,,,,,,,,,,,,,,,,,,BSR
+,,,,,,,,,,,,,,,,,,,,BSMX

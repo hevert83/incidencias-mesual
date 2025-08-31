@@ -1,0 +1,40 @@
+/* Fondo general */
+body {
+    background-color: #f4f6f8;
+}
+
+/* Título */
+h1 {
+    color: #2e7d32;
+    font-size: 2.5em;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #e0f7fa;
+}
+
+/* Métricas */
+[data-testid="metric-container"] {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+/* Logo fijo */
+.fixed-logo {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 999;
+    background-color: white;
+    padding: 8px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.fixed-logo img {
+    width: 120px;
+    border-radius: 8px;
+}
