@@ -21,7 +21,7 @@ with col1:
 with col2:   
     st.title("Dashboard de Incidencias BSLA")
 with col3:
-    st.image("img/logo1.png", width=170)
+    st.image("img/Logo1.png", width=170)
 
 
 #Titulo principal
