@@ -1,0 +1,9 @@
+Categoría,Descripción,Nivel,Área,Cantidad
+Incidencia Personal,Mancha de aceite en estacionamiento principal,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,1.0
+Incidencia de Unidad ,Neumaticos dañados ,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,3.0
+Incidencia Línea/Operador ,Problemas con TAG en caseta,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,1.0
+Activación de Panel ,"Se reportó la activación de diversos módulos, pero al revisar área no se presentaron daños por que las activaciones se presentaron por fallas técnicas",MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,5.0
+Revisión de caja en Planta,No se presentaron reportes,BAJA,BSAR-BSCO-BSCR-BSR-BSMX,0.0
+Detención No Autorizada,La mayoría de las detenciones son reportes de uso del W.C y fallas mecanicas,ALTA,BSAR-BSCO-BSCR-BSR-BSMX,17.0
+Incidencia Planta Exterior ,Se destaca que la mayoría de los incidentes que se presentaron fueron incendios a los alrededores de la planta,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,1.0
+
