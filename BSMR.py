@@ -17,7 +17,7 @@ st.set_page_config(
 col1, col2, col3 = st.columns([1, 2, 1])
 
 with col1:
-    st.image("img/logo_bsmr.png", width=200)
+    st.image("img/Logo_bsmr.png", width=200)
     
 with col2:   
     st.title("Dashboard de Incidencias BSMR")
