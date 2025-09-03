@@ -26,7 +26,6 @@ with col3:
 
 
 #Titulo principal
-st.title("Dashboard de Incidencias BSMR")
 st.markdown("Análisis de las incidencias reportadas en la planta BSMR durante el mes de Agosto de 2025.")
 
 with st.expander("Descripción del Dashboard" , expanded=True):
