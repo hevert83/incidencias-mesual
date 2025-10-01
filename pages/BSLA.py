@@ -35,7 +35,7 @@ with st.expander("Descripción del Dashboard" , expanded=True):
 
 # Cargar los datos desde el archivo CSV
 try:
-    incidencias_df = pd.read_csv('data/Reporte de incidencias BSLA(08-1)')
+    incidencias_df = pd.read_csv('data/Reporte de incidencias BSLA(08-1).csv')
     #st.success("Datos cargados correctamente desde 'incidencias_febrero.csv'.")
     
     
