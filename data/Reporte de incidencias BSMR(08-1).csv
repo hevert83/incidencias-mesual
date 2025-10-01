@@ -1,0 +1,8 @@
+Categoría,Descripción,Nivel,Área,Cantidad
+Incidencia Personal,Personal de planta presento algun percance,ALTA,BSAR-BSCO-BSCR-BSR-BSMX,2.0
+Incidencia de Unidad ,Neumaticos dañados ,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,1.0
+Incidencia Línea/Operador ,Problemas con TAG en caseta,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,1.0
+Activación de Panel ,,BAJA,BSAR-BSCO-BSCR-BSR-BSMX,0.0
+Revisión de caja en Planta,No se presentaron reportes,BAJA,BSAR-BSCO-BSCR-BSR-BSMX,0.0
+Detención No Autorizada,La mayoría de las detenciones son reportes de uso del W.C y fallas mecanicas,ALTA,BSAR-BSCO-BSCR-BSR-BSMX,2.0
+Incidencia Planta Exterior ,Se destaca que la mayoría de los incidentes que se presentaron fueron incendios a los alrededores de la planta,MEDIA,BSAR-BSCO-BSCR-BSR-BSMX,1.0
