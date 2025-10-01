@@ -25,7 +25,7 @@ with col3:
 
 
 #Titulo principal
-st.markdown("Análisis de las incidencias reportadas en la planta BSMR durante el mes de Agosto del 2025.")
+st.markdown("Análisis de las incidencias reportadas en la planta BSMR durante el mes de Septiembre del 2025.")
 
 with st.expander("Descripción del Dashboard" , expanded=True):
     st.markdown("""
@@ -35,7 +35,7 @@ with st.expander("Descripción del Dashboard" , expanded=True):
 
 # Cargar los datos desde el archivo CSV
 try:
-    incidencias_df = pd.read_csv('data/Reporte de incidencias(BSLA) Agosto_formateado.csv')
+    incidencias_df = pd.read_csv('data/Reporte de incidencias BSLA(08-1)')
     #st.success("Datos cargados correctamente desde 'incidencias_febrero.csv'.")
     
     
