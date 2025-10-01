@@ -1,0 +1,8 @@
+Categoría,Descripción,Nivel,Área,Cantidad
+Incidencia Asociados,Asociados de planta presento algun percance,ALTA,BSMR,2.0
+Incidencia de Unidad ,Neumaticos dañados ,MEDIA,BSMR,1.0
+Incidencia Línea/Operador ,Problemas con TAG en caseta,MEDIA,BSMR,1.0
+Activación de Panel ,,BAJA,BSMR,0.0
+Revisión de caja en Planta,No se presentaron reportes,BAJA,BSMR,0.0
+Detención No Autorizada,La mayoría de las detenciones son reportes de uso del W.C y fallas mecanicas,ALTA,BSMR,2.0
+Incidencia Planta Exterior ,Se destaca que la mayoría de los incidentes que se presentaron fueron incendios a los alrededores de la planta,MEDIA,BSMR,1.0
